@@ -1,4 +1,4 @@
-package com.demo.solid;
+package com.demo.lab2.solid;
 
 class SystemManager {
     processOrder(order) {

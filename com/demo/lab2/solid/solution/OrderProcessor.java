@@ -1,7 +1,7 @@
-package com.demo.solid.solution;
+package com.demo.lab2.solid.solution;
 
-import com.demo.solid.solution.dto.ExpresOrder;
-import com.demo.solid.solution.dto.StandarOrder;
+import com.demo.lab2.solid.solution.dto.ExpresOrder;
+import com.demo.lab2.solid.solution.dto.StandarOrder;
 
 import java.util.List;
 

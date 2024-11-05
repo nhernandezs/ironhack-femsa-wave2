@@ -1,4 +1,4 @@
-package com.demo.solid.solution;
+package com.demo.lab2.solid.solution;
 
 /**
  * Se crea para SRP

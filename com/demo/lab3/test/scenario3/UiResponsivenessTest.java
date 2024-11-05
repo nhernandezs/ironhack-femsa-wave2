@@ -1,4 +1,4 @@
-package com.demo.test.scenario3;
+package com.demo.lab3.test.scenario3;
 
 public class UiResponsivenessTest {
 

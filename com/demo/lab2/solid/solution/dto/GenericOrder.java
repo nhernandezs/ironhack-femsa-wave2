@@ -1,4 +1,4 @@
-package com.demo.solid.solution.dto;
+package com.demo.lab2.solid.solution.dto;
 
 /**
  * Se agrega para LSP y OCP

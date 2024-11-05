@@ -1,4 +1,4 @@
-package com.demo.test.scenario1;
+package com.demo.lab3.test.scenario1;
 
 public class AuthenticatorTest {
     /**

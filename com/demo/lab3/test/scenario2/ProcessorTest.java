@@ -1,4 +1,4 @@
-package com.demo.test.scenario2;
+package com.demo.lab3.test.scenario2;
 
 public class ProcessorTest {
     /**
