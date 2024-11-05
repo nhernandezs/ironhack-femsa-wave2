@@ -1,4 +1,4 @@
-package com.demo.solution.dto;
+package com.demo.solid.solution.dto;
 
 public class ExpresOrder extends GenericOrder implements PriorizableI{
     @Override

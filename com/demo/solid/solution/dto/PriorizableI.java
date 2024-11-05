@@ -1,4 +1,4 @@
-package com.demo.solution.dto;
+package com.demo.solid.solution.dto;
 
 public interface PriorizableI {
     setUpPriorization();

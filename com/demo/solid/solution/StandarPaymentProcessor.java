@@ -1,4 +1,4 @@
-package com.demo.solution;
+package com.demo.solid.solution;
 
 public class StandarPaymentProcessor implements PaymentProcessor {
     @Override
